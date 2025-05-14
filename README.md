@@ -1,10 +1,5 @@
 # About Me    
 
-
-**Robinc01/Robinc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving infrastructure automation using Docker Swarm, Jenkins, and HAProxy.
 - 🌱 I’m currently learning advanced DevOps practices, Kubernetes, and cloud-native tools.
 - 👯 I’m looking to collaborate on Linux-based DevOps projects and open-source automation tools.
